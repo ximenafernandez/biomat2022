@@ -1,2 +1,3 @@
-# biomat2022
-This repository contain the lectures and code in BIOMAT
+# Topological Data Analysis and Applications in dynamics
+### Ximena Fernandez
+## BIOMAT 2022
