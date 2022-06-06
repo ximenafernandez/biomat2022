@@ -6,7 +6,7 @@
 This repository contains all the lectures and code related to the course.
 
 ### Lecture 1: Topological Data Analysis
-This lecture is about a general exposition of Persistent Homology and some applications. The slides of the lecture can be found <a href="(https://ximenafernandez.github.io/reveal.js-presentations/slides/PersistentHomology.html"> here</a>.
+This lecture is about a general exposition of Persistent Homology and some applications. The slides of the lecture can be found <a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/PersistentHomology.html"> here</a>.
 The demo of the software Ripser can be found at <a href="https://live.ripser.org/"> this link</a>. The synthetic point clouds to test the software are available at the folder _data_: cicle, sphere and torus.
 
 ### Lecture 2: Hands on: computational topology in action
