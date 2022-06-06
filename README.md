@@ -12,8 +12,8 @@ The demo of the software Ripser can be found at <a href="https://live.ripser.org
 ### Lecture 2: Hands on: computational topology in action
 This lecture is a live-coding exposition of the use of the software Ripser to compute Persistent Homology, and some real applications with concrete data. The datasets are available at the folder _data_.
 The notebooks with the code and descriptions of the applications can be found at the folder _tutorials_:
- - Intro_Persistent_Homology: Introductory tools related to the computation of persistent homology with the software Ripser. It also contains the first simulations to verify properties of persistent homology and to infer topological features from synthetic point clouds.
- - Example_CycloOctane.ipynb:
+ - Intro_Persistent_Homology.ipynb: Introductory tools related to the computation of persistent homology with the software Ripser. It also contains the first simulations to verify properties of persistent homology and to infer topological features from synthetic point clouds.
+ - <span style="font-family:courier;">Example_CycloOctane.ipynb</span>:
  - Example_GridCells.ipynb:
  - Proteins_Binding.ipynb:
  - Proteins_Structure_Classification.ipynb: 
