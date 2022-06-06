@@ -1,6 +1,6 @@
 # Topological Data Analysis and Applications in Dynamics
-###  <a href="https://ximenafernandez.github.io/">
-## BIOMAT 2022"> _Ximena Fernandez_ </a>
+###  <a href="https://ximenafernandez.github.io/">  _Ximena Fernandez_ </a>
+## BIOMAT 2022
 
 
 This repository contains all the lectures and code related to the course.
