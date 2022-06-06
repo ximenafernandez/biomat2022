@@ -1,5 +1,5 @@
 # Topological Data Analysis and Applications in Dynamics
-###  <a href="https://ximenafernandez.github.io/">  _Ximena Fernandez_ </a>
+##  <a href="https://ximenafernandez.github.io/">  _Ximena Fernandez_ </a>
 ## BIOMAT 2022
 
 
