@@ -16,8 +16,7 @@ This lecture is a live-coding exposition of the use of the software Ripser to co
  All the datasets are available at the folder _data_.
 
  To run the notebooks, it is required to have installed ```jupyter```, as well as the following:
- ```
-Python (>= 3.6)
+ ``` Python (>= 3.6)
 NumPy (>= 1.19.1)
 SciPy (>= 1.5.0)
 scikit-learn (>= 0.23.1)
