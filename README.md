@@ -21,8 +21,8 @@ The notebooks with the implementation of several applications from the literatur
  - _Proteins_Structure_Classification.ipynb_: 
 
 ### Lecture 3: Applications in dynamics
-This lecture is about some applications of Persistent Homology to study dynamical systems and analize time series. The slides of this lecture can be found <a href="https://"> here </a>.
+This lecture is about some applications of Persistent Homology to study dynamical systems and analize time series. <!--The slides of this lecture can be found <a href="https://"> here </a>.-->
 Some of the applications are based on recent work of the author: 
 - **Birdsongs**:<a href="https://github.com/ximenafernandez/intrinsicPH"> Repository IntrinsicPH </a> 
-- **iEEG and MEG**: <a href="https://github.com/ximenafernandez/epipepsy"> Repository Epilepsy </a> 
+- **iEEG and MEG**: <a href="https://github.com/ximenafernandez/epilepsy"> Repository Epilepsy </a> 
 
