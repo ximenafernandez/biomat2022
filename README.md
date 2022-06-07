@@ -11,7 +11,18 @@ This lecture is about a general exposition of Persistent Homology and some appli
 The demo of the software Ripser can be found at <a href="https://live.ripser.org/"> this link</a>. The synthetic point clouds to test the software are available at the folder _data_: cicle, sphere and torus.
 
 ### Lecture 2: Hands on: computational topology in action
-This lecture is a live-coding exposition of the use of the software Ripser to compute Persistent Homology, and some real applications with concrete data. The datasets are available at the folder _data_.
+This lecture is a live-coding exposition of the use of the software Ripser to compute Persistent Homology, and some real applications with concrete data.
+
+ All the datasets are available at the folder _data_.
+
+ To run the notebooks, it is required to have installed 
+ ```
+ Python
+ ```
+ 
+jupyter lab 
+or jupyter notebook
+
 
 The notebook _Intro_Persistent_Homology.ipynb_ provides a complete description and implementation of tools related to the computation of persistent homology with the software Ripser. It also contains  some simulations in synthetic point clouds to describe properties of persistent homology and to infer topological features from a sample.
 
