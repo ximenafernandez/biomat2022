@@ -2,6 +2,7 @@
 ##  <a href="https://ximenafernandez.github.io/">  _Ximena Fernandez_ </a>
 ## BIOMAT 2022
 
+![](figures/filtration_circle.gif)
 
 This repository contains all the lectures and code related to the course.
 
@@ -23,6 +24,6 @@ The notebooks with the implementation of several applications from the literatur
 ### Lecture 3: Applications in dynamics
 This lecture is about some applications of Persistent Homology to study dynamical systems and analize time series. <!--The slides of this lecture can be found <a href="https://"> here </a>.-->
 Some of the applications are based on recent work of the author: 
-- **Birdsongs**:<a href="https://github.com/ximenafernandez/intrinsicPH"> Repository IntrinsicPH </a> 
-- **iEEG and MEG**: <a href="https://github.com/ximenafernandez/epilepsy"> Repository Epilepsy </a> 
+- **Birdsongs, EEG and Dynamics**: <a href="https://github.com/ximenafernandez/intrinsicPH">Repository IntrinsicPH </a> 
+- **iEEG and MEG**: <a href="https://github.com/ximenafernandez/epilepsy">Repository Epilepsy </a> 
 
