@@ -2,7 +2,7 @@
 ##  <a href="https://ximenafernandez.github.io/">  _Ximena Fernandez_ </a>
 ## BIOMAT 2022
 
-![](figures/filtration_circle.gif)
+<img src="figures/filtration_circle.gif" width="250" height="250"/>
 
 This repository contains all the lectures and code related to the course.
 
