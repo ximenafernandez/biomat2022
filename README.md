@@ -15,7 +15,6 @@ This lecture is a live-coding exposition of the use of the software Ripser to co
 The notebook _Intro_Persistent_Homology.ipynb_ provides a complete description and implementation of tools related to the computation of persistent homology with the software Ripser. It also contains  some simulations in synthetic point clouds to describe properties of persistent homology and to infer topological features from a sample.
 
 The notebooks with the implementation of several applications from the literature can be found at the folder _applications_:
- - 
  - _Example_CycloOctane.ipynb_:
  - _Example_GridCells.ipynb_:
  - _Proteins_Binding.ipynb_:
