@@ -15,13 +15,27 @@ This lecture is a live-coding exposition of the use of the software Ripser to co
 
  All the datasets are available at the folder _data_.
 
- To run the notebooks, it is required to have installed 
+ To run the notebooks, it is required to have installed ```jupyter```, as well as the following:
  ```
- Python
+    Python (>= 3.6)
+
+    NumPy (>= 1.19.1)
+
+    SciPy (>= 1.5.0)
+
+    scikit-learn (>= 0.23.1)
+
+
  ```
- 
-jupyter lab 
-or jupyter notebook
+
+The specific libraries for TDA we use are 
+```
+ripser
+
+tadasets
+
+persim
+```
 
 
 The notebook _Intro_Persistent_Homology.ipynb_ provides a complete description and implementation of tools related to the computation of persistent homology with the software Ripser. It also contains  some simulations in synthetic point clouds to describe properties of persistent homology and to infer topological features from a sample.
