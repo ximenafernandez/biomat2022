@@ -20,11 +20,10 @@ This lecture is a live-coding exposition of the use of the software Ripser to co
 NumPy (>= 1.19.1)
 SciPy (>= 1.5.0)
 scikit-learn (>= 0.23.1)
- ```
+```
 
 The specific libraries for TDA we use are:
-```
-ripser
+```ripser
 tadasets
 persim
 ```
