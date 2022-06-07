@@ -16,20 +16,21 @@ This lecture is a live-coding exposition of the use of the software Ripser to co
  All the datasets are available at the folder _data_.
 
  To run the notebooks, it is required to have installed ```jupyter```, as well as the following:
- ``` Python (>= 3.6)
+ ``` 
+Python (>= 3.6)
 NumPy (>= 1.19.1)
 SciPy (>= 1.5.0)
 scikit-learn (>= 0.23.1)
 ```
 
 The specific libraries for TDA we use are:
-```ripser
+```
+ripser
 tadasets
 persim
 ```
 
-
-The notebook _Intro_Persistent_Homology.ipynb_ provides a complete description and implementation of tools related to the computation of persistent homology with the software Ripser. It also contains  some simulations in synthetic point clouds to describe properties of persistent homology and to infer topological features from a sample.
+The notebook _Intro_Persistent_Homology.ipynb_ provides a complete description and implementation of tools related to the computation of persistent homology with the software ```Ripser```. It also contains  some simulations in synthetic point clouds to describe properties of persistent homology and to infer topological features from a sample.
 
 The notebooks with the implementation of several applications from the literature can be found at the folder _applications_:
  - _Example_CycloOctane.ipynb_
@@ -40,6 +41,6 @@ The notebooks with the implementation of several applications from the literatur
 ### Lecture 3: Applications in dynamics
 This lecture is about some applications of Persistent Homology to study dynamical systems and analize time series. <!--The slides of this lecture can be found <a href="https://"> here </a>.-->
 Some of the applications are based on recent work of the author: 
-- **Birdsongs, EEG and Dynamics**: <a href="https://github.com/ximenafernandez/intrinsicPH">Repository IntrinsicPH </a> 
+- **Birdsongs, EEG and Dynamical Systems**: <a href="https://github.com/ximenafernandez/intrinsicPH">Repository IntrinsicPH </a> 
 - **iEEG and MEG**: <a href="https://github.com/ximenafernandez/epilepsy">Repository Epilepsy </a> 
 
