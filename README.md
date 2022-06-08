@@ -23,6 +23,7 @@ SciPy (>= 1.5.0)
 scikit-learn (>= 0.23.1)
 matplotlib
 seaborn
+Fermat
 ```
 
 The specific libraries for TDA we use are:
