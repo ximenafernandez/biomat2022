@@ -30,7 +30,7 @@ tadasets
 persim
 ```
 
-The notebook _Intro_Persistent_Homology.ipynb_ provides a complete description and implementation of tools related to the computation of persistent homology with the software ```Ripser```. It also contains  some simulations in synthetic point clouds to describe properties of persistent homology and to infer topological features from a sample.
+The notebook _Intro_Persistent_Homology.ipynb_ provides a complete description and implementation of tools related to the computation of persistent homology with the software ```Ripser```. It also contains  some simulations in synthetic point clouds to describe properties of persistent homology and to infer other topological features from a sample (such as orientability, singularities and local dimension).
 
 The notebooks with the implementation of several applications from the literature can be found at the folder _applications_:
  - _Example_CycloOctane.ipynb_
@@ -41,6 +41,6 @@ The notebooks with the implementation of several applications from the literatur
 ### Lecture 3: Applications in dynamics
 This lecture is about some applications of Persistent Homology to study dynamical systems and analize time series. <!--The slides of this lecture can be found <a href="https://"> here </a>.-->
 Some of the applications are based on recent work of the author: 
-- **Birdsongs, EEG and Dynamical Systems**: <a href="https://github.com/ximenafernandez/intrinsicPH">Repository IntrinsicPH </a> 
+- **Birdsongs, ECG and Dynamical Systems**: <a href="https://github.com/ximenafernandez/intrinsicPH">Repository IntrinsicPH </a> 
 - **iEEG and MEG**: <a href="https://github.com/ximenafernandez/epilepsy">Repository Epilepsy </a> 
 
