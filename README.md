@@ -21,6 +21,8 @@ Python (>= 3.6)
 NumPy (>= 1.19.1)
 SciPy (>= 1.5.0)
 scikit-learn (>= 0.23.1)
+matplotlib
+seaborn
 ```
 
 The specific libraries for TDA we use are:
