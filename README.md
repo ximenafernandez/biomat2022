@@ -1,6 +1,6 @@
 ## Topological Data Analysis and Applications in Dynamics
-###  <a href="https://ximenafernandez.github.io/">  _Ximena Fernandez_ </a>
-### BIOMAT 2022
+### <a href="https://ximenafernandez.github.io/">_Ximena Fernandez_</a>
+### <a href="https://www.modelingnature.org/international-phd-school-2022">BIOMAT 2022</a>
 
 <!--<img src="figures/filtration_circle.gif" width="300" height="300" class="center"/>-->
 
